@@ -1,6 +1,6 @@
 
 
-![](https://github.com/charlotteclough/charlotteclough/blob/main/1.png)
+![](https://github.com/charlotteclough/charlotteclough/blob/main/Untitled%20design.png)
 # Hey I'm Charlotte!
 
 💗 Pronouns: she/her
