@@ -27,6 +27,8 @@ I am a fully certified AWS Cloud Practitioner
 
 ### ✨Find me here✨
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow charlotteclough on LinkedIn" title="Follow charlotteclough on LinkedIn"/>](https://www.linkedin.com/in/cloughcharlotte)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/codingcharlotte.svg?style=social&label=Follow%20%40codingcharlotte)](https://twitter.com/codingcharlotte)
+
 
 
 
