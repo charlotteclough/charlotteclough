@@ -9,10 +9,8 @@
 - Currently specialising in Test Automation
 - Looking to expand knowledge in Software Engineering.
 
-<img
-  src="https://github.com/charlotteclough/charlotteclough/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Languages and Tools:  
 
