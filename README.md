@@ -11,7 +11,7 @@
 
 <img
   src="https://github.com/charlotteclough/charlotteclough/blob/main/images/stat.svg"
-  alt="Alternative Text"
+  alt="Avinal WakaTime Activity"
 />
 
 ### Languages and Tools:  
