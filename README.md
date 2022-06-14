@@ -3,11 +3,14 @@
 ![](https://github.com/charlotteclough/charlotteclough/blob/main/Untitled%20design.png)
 # Hey I'm Charlotte!
 
+[![wakatime](https://wakatime.com/badge/user/ac8a295d-b87c-49a9-beaf-eae06daa35bb.svg)](https://wakatime.com/@ac8a295d-b87c-49a9-beaf-eae06daa35bb)
+
 💗 Pronouns: she/her
 
 - I'm a Software Engineer from Newcastle Upon Tyne. 
 - Currently specialising in Test Automation
 - Looking to expand knowledge in Software Engineering.
+- 
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
