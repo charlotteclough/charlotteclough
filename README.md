@@ -9,6 +9,11 @@
 - Currently specialising in Test Automation
 - Looking to expand knowledge in Software Engineering.
 
+<img
+  src="https://github.com/charlotteclough/charlotteclough/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
+
 ### Languages and Tools:  
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
