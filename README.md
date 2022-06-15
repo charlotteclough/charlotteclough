@@ -13,6 +13,14 @@
 - 
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   7 hrs 1 min     ██████████████████████▒░░   89.84 %
+Gherkin      37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+Docker       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ### Languages and Tools:  
