@@ -15,12 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 June 2022 - To: 21 June 2022
+From: 15 June 2022 - To: 22 June 2022
 
-TypeScript   19 hrs 23 mins  ████████████████████▓░░░░   82.57 %
-Gherkin      3 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
-JSON         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Other        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+TypeScript   18 hrs 59 mins  ████████████████████▒░░░░   81.22 %
+Gherkin      3 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
+JSON         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+JavaScript   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Other        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
