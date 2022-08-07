@@ -15,10 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 July 2022 - To: 05 August 2022
+From: 30 July 2022 - To: 06 August 2022
 
-TypeScript   8 hrs 49 mins   ███████████████████▒░░░░░   76.90 %
-Gherkin      2 hrs 39 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.10 %
+TypeScript   13 hrs 12 mins  ██████████████████▓░░░░░░   75.24 %
+Gherkin      4 hrs 20 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.76 %
 ```
 
 <!--END_SECTION:waka-->
