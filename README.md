@@ -17,8 +17,8 @@
 ```text
 From: 08 August 2022 - To: 15 August 2022
 
-TypeScript   11 hrs 19 mins  ██████████████████▓░░░░░░   75.23 %
-Gherkin      3 hrs 43 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.77 %
+TypeScript   9 hrs           ███████████████████░░░░░░   75.54 %
+Gherkin      2 hrs 55 mins   ██████░░░░░░░░░░░░░░░░░░░   24.46 %
 ```
 
 <!--END_SECTION:waka-->
