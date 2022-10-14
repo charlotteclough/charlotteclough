@@ -15,10 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 October 2022 - To: 12 October 2022
+From: 06 October 2022 - To: 13 October 2022
 
-TypeScript   12 hrs 24 mins  ██████████████░░░░░░░░░░░   56.14 %
-Gherkin      9 hrs 41 mins   ███████████░░░░░░░░░░░░░░   43.86 %
+TypeScript   9 hrs 18 mins   █████████████▒░░░░░░░░░░░   53.72 %
+Gherkin      8 hrs 1 min     ███████████▓░░░░░░░░░░░░░   46.28 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
