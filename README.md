@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 November 2022 - To: 10 November 2022
+From: 05 November 2022 - To: 11 November 2022
 
-Gherkin      7 hrs 43 mins   ███████████████▓░░░░░░░░░   62.65 %
-TypeScript   4 hrs 28 mins   █████████░░░░░░░░░░░░░░░░   36.31 %
-Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Gherkin      9 hrs 22 mins   ████████████████▒░░░░░░░░   65.92 %
+TypeScript   4 hrs 42 mins   ████████▒░░░░░░░░░░░░░░░░   33.17 %
+Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
