@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 December 2022 - To: 07 December 2022
+From: 02 December 2022 - To: 08 December 2022
 
-Gherkin      3 hrs 34 mins   ████████████████████▓░░░░   82.77 %
-TypeScript   25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
-JSON         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
-Bash         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Gherkin      59 mins         ██████████████████░░░░░░░   71.42 %
+TypeScript   11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
+JSON         6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+Bash         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+Docker       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
