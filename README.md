@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 January 2023 - To: 07 January 2023
+From: 02 January 2023 - To: 08 January 2023
 
 TypeScript   3 hrs 25 mins   ██████████████░░░░░░░░░░░   55.83 %
 Gherkin      2 hrs 28 mins   ██████████░░░░░░░░░░░░░░░   40.21 %
