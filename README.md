@@ -15,12 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 January 2023 - To: 26 January 2023
+From: 21 January 2023 - To: 27 January 2023
 
-TypeScript   7 hrs 28 mins   █████████████░░░░░░░░░░░░   51.82 %
-Gherkin      6 hrs 48 mins   ███████████▓░░░░░░░░░░░░░   47.23 %
-JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Git          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+TypeScript   6 hrs 23 mins   █████████████▒░░░░░░░░░░░   53.34 %
+Gherkin      5 hrs 30 mins   ███████████▓░░░░░░░░░░░░░   46.00 %
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
