@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 February 2023 - To: 21 February 2023
+From: 16 February 2023 - To: 22 February 2023
 
-Gherkin      2 hrs 42 mins   ████████████████▒░░░░░░░░   65.45 %
-TypeScript   1 hr 6 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.71 %
-XML          10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-Docker       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Gherkin      3 hrs 18 mins   █████████████████▓░░░░░░░   71.05 %
+TypeScript   57 mins         █████░░░░░░░░░░░░░░░░░░░░   20.61 %
+XML          12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Docker       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
