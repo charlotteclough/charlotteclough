@@ -15,10 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 March 2023 - To: 21 March 2023
+From: 16 March 2023 - To: 22 March 2023
 
-Gherkin      21 mins         ████████████████████▓░░░░   83.23 %
-TypeScript   4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.77 %
+Gherkin      31 mins         █████████████▒░░░░░░░░░░░   53.86 %
+TypeScript   26 mins         ███████████▓░░░░░░░░░░░░░   46.14 %
 ```
 
 <!--END_SECTION:waka-->
