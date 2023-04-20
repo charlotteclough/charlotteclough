@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 April 2023 - To: 18 April 2023
+From: 12 April 2023 - To: 19 April 2023
 
-TypeScript   1 hr 17 mins    ████████████▒░░░░░░░░░░░░   48.94 %
-Gherkin      1 hr 17 mins    ████████████▒░░░░░░░░░░░░   48.89 %
-XML          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+TypeScript   2 hrs 39 mins   ███████████████▒░░░░░░░░░   61.40 %
+Gherkin      1 hr 36 mins    █████████▒░░░░░░░░░░░░░░░   37.26 %
+XML          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->
