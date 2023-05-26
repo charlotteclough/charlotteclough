@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 May 2023 - To: 24 May 2023
+From: 18 May 2023 - To: 25 May 2023
 
-TypeScript   36 mins         ████████████▓░░░░░░░░░░░░   50.05 %
-Gherkin      18 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.74 %
-JSON         16 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.48 %
-TSConfig     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+TypeScript   26 mins         ███████████░░░░░░░░░░░░░░   43.56 %
+Gherkin      18 mins         ███████▓░░░░░░░░░░░░░░░░░   30.99 %
+JSON         13 mins         ██████░░░░░░░░░░░░░░░░░░░   23.37 %
+TSConfig     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
