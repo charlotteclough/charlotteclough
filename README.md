@@ -15,13 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2023 - To: 26 June 2023
+From: 20 June 2023 - To: 27 June 2023
 
-TypeScript   1 hr 27 mins    ████████████████████████░   96.32 %
-JSON         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-Gherkin      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
