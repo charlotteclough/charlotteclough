@@ -15,10 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 June 2023 - To: 04 July 2023
+From: 28 June 2023 - To: 05 July 2023
 
-TypeScript   24 mins         █████████████████▓░░░░░░░   70.49 %
-Gherkin      10 mins         ███████▒░░░░░░░░░░░░░░░░░   29.51 %
+TypeScript   49 mins         ████████████████████▓░░░░   82.90 %
+Gherkin      10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
 ```
 
 <!--END_SECTION:waka-->
