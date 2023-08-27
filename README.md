@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2023 - To: 25 August 2023
+From: 19 August 2023 - To: 26 August 2023
 
 Gherkin      4 hrs           █████████████░░░░░░░░░░░░   51.88 %
 TypeScript   3 hrs 21 mins   ███████████░░░░░░░░░░░░░░   43.43 %
