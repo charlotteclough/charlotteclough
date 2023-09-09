@@ -15,13 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2023 - To: 07 September 2023
+From: 01 September 2023 - To: 08 September 2023
 
-JSON         35 mins         ██████████████████░░░░░░░   71.96 %
-Gherkin      5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
-TypeScript   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
-Docker       3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-TSConfig     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
