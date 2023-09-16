@@ -15,10 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2023 - To: 14 September 2023
+From: 08 September 2023 - To: 15 September 2023
 
-JSON       13 mins         ████████████▓░░░░░░░░░░░░   51.07 %
-TSConfig   12 mins         ████████████▒░░░░░░░░░░░░   48.74 %
+JSON       13 mins         ████████████▓░░░░░░░░░░░░   50.37 %
+TSConfig   12 mins         ████████████░░░░░░░░░░░░░   48.07 %
+Gherkin    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 Docker     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
