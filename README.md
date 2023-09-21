@@ -15,12 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2023 - To: 19 September 2023
+From: 13 September 2023 - To: 20 September 2023
 
-JSON       13 mins         █████████░░░░░░░░░░░░░░░░   36.09 %
-TSConfig   12 mins         ████████▓░░░░░░░░░░░░░░░░   34.44 %
-Gherkin    10 mins         ███████▒░░░░░░░░░░░░░░░░░   29.33 %
-Docker     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Gherkin      57 mins         ████████████████████▒░░░░   81.43 %
+TypeScript   10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.75 %
+JSON         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
