@@ -15,10 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2023 - To: 21 September 2023
+From: 15 September 2023 - To: 22 September 2023
 
-TypeScript   1 hr 25 mins    █████████████░░░░░░░░░░░░   51.97 %
-Gherkin      1 hr 19 mins    ████████████░░░░░░░░░░░░░   48.03 %
+Gherkin      1 hr 45 mins    █████████████░░░░░░░░░░░░   52.58 %
+TypeScript   1 hr 34 mins    ████████████░░░░░░░░░░░░░   47.42 %
 ```
 
 <!--END_SECTION:waka-->
