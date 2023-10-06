@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2023 - To: 04 October 2023
+From: 28 September 2023 - To: 05 October 2023
 
-JSON         43 mins         ████████████▒░░░░░░░░░░░░   48.98 %
-XML          24 mins         ███████░░░░░░░░░░░░░░░░░░   27.65 %
-Gherkin      18 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.77 %
-TypeScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+Gherkin      39 mins         ██████████▓░░░░░░░░░░░░░░   42.23 %
+JSON         28 mins         ███████▓░░░░░░░░░░░░░░░░░   30.86 %
+XML          24 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.54 %
 Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
