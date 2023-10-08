@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2023 - To: 06 October 2023
+From: 30 September 2023 - To: 07 October 2023
 
 Gherkin      55 mins         ███████████▓░░░░░░░░░░░░░   46.81 %
 JSON         28 mins         ██████░░░░░░░░░░░░░░░░░░░   24.15 %
