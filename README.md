@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2023 - To: 10 October 2023
+From: 04 October 2023 - To: 11 October 2023
 
-Gherkin      1 hr 27 mins    █████████████░░░░░░░░░░░░   51.41 %
-TypeScript   58 mins         ████████▓░░░░░░░░░░░░░░░░   34.15 %
-JSON         24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
+TypeScript   1 hr 39 mins    █████████████▓░░░░░░░░░░░   54.25 %
+Gherkin      1 hr 14 mins    ██████████░░░░░░░░░░░░░░░   40.22 %
+JSON         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
 ```
 
 <!--END_SECTION:waka-->
