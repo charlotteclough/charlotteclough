@@ -15,11 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2023 - To: 31 October 2023
+From: 25 October 2023 - To: 01 November 2023
 
-TypeScript   3 hrs 10 mins   ██████████████▒░░░░░░░░░░   57.61 %
-Gherkin      2 hrs 19 mins   ██████████▓░░░░░░░░░░░░░░   42.31 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+TypeScript   4 hrs 39 mins   █████████████▒░░░░░░░░░░░   53.31 %
+Gherkin      3 hrs 39 mins   ██████████▒░░░░░░░░░░░░░░   41.93 %
+Docker       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
