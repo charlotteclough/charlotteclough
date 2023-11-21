@@ -15,12 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2023 - To: 19 November 2023
+From: 14 November 2023 - To: 20 November 2023
 
-TypeScript   2 hrs 9 mins    ████████████▓░░░░░░░░░░░░   50.37 %
-Gherkin      2 hrs 3 mins    ████████████░░░░░░░░░░░░░   47.98 %
-Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Gherkin      2 hrs 5 mins    ████████████████░░░░░░░░░   63.50 %
+TypeScript   1 hr 7 mins     ████████▓░░░░░░░░░░░░░░░░   34.35 %
+Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
