@@ -17,10 +17,7 @@
 ```txt
 From: 14 November 2023 - To: 20 November 2023
 
-Gherkin      2 hrs 5 mins    ████████████████░░░░░░░░░   63.50 %
-TypeScript   1 hr 7 mins     ████████▓░░░░░░░░░░░░░░░░   34.35 %
-Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
