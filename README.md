@@ -15,9 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2024 - To: 07 January 2024
+From: 02 January 2024 - To: 08 January 2024
 
-Gherkin   0 secs          █████████████████████████   100.00 %
+Gherkin      41 mins         █████████████████▓░░░░░░░   70.61 %
+TypeScript   17 mins         ███████▒░░░░░░░░░░░░░░░░░   29.39 %
 ```
 
 <!--END_SECTION:waka-->
