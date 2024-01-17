@@ -15,10 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2024 - To: 15 January 2024
+From: 10 January 2024 - To: 16 January 2024
 
-Gherkin      2 hrs 57 mins   ████████████████░░░░░░░░░   64.07 %
-TypeScript   1 hr 39 mins    █████████░░░░░░░░░░░░░░░░   35.93 %
+TypeScript   2 hrs 6 mins    █████████████░░░░░░░░░░░░   52.15 %
+Gherkin      1 hr 56 mins    ████████████░░░░░░░░░░░░░   47.85 %
 ```
 
 <!--END_SECTION:waka-->
