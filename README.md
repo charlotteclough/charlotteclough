@@ -15,13 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 February 2024 - To: 26 February 2024
+From: 21 February 2024 - To: 27 February 2024
 
-TypeScript   2 hrs 21 mins   ███████████████▓░░░░░░░░░   62.91 %
-Gherkin      1 hr 7 mins     ███████▒░░░░░░░░░░░░░░░░░   29.95 %
-XML          9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+TypeScript   1 hr 56 mins    ███████████████▓░░░░░░░░░   62.41 %
+Gherkin      1 hr 7 mins     █████████░░░░░░░░░░░░░░░░   35.84 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
