@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2024 - To: 03 April 2024
+From: 29 March 2024 - To: 04 April 2024
 
-TypeScript   2 hrs 48 mins   ███████████▒░░░░░░░░░░░░░   44.68 %
-Gherkin      2 hrs 7 mins    ████████▒░░░░░░░░░░░░░░░░   33.77 %
-Markdown     47 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
-HTML         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-YAML         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+TypeScript   4 hrs 40 mins   ██████████████▓░░░░░░░░░░   58.24 %
+Gherkin      2 hrs 52 mins   █████████░░░░░░░░░░░░░░░░   35.76 %
+HTML         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+YAML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
