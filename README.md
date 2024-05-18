@@ -15,10 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 May 2024 - To: 16 May 2024
+From: 10 May 2024 - To: 17 May 2024
 
-TypeScript   2 hrs 4 mins    ██████████████████████▓░░   90.94 %
-Gherkin      11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
+TypeScript   2 hrs 3 mins    ██████████████████████▓░░   90.13 %
+Gherkin      12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
 JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
