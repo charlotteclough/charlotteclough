@@ -15,11 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 May 2024 - To: 26 May 2024
+From: 20 May 2024 - To: 27 May 2024
 
-TypeScript   2 hrs 46 mins   █████████████████████▓░░░   86.51 %
-Gherkin      22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
-HTML         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+TypeScript   2 hrs 43 mins   ██████████████████████░░░   88.13 %
+Gherkin      22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
 ```
 
 <!--END_SECTION:waka-->
